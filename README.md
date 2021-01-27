@@ -1,2 +1,2 @@
 # escola-Generation
-Aplicação utilizando conceitos de Spring com Java. Desenvolvida como exercício no Bootcamp Generation.
+Aplicação de cadastro e gerenciamento de alunos, utilizando Java com Spring Boot. Desenvolvida no Bootcamp Generation Brasil.
